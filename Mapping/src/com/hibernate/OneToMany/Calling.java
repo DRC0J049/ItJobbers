@@ -14,6 +14,7 @@ public class Calling
   {
 	  try
 	  {
+		 System.out.println("hiii");
 		  Configuration cfg = new Configuration();
 		  cfg.configure("hibernate.cfg.xml");
 		   
